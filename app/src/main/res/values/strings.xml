@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Application2Android1Intents</string>
+    <string name="rsk_mva_gmail_com">rsk.mva@gmail.com</string>
+    <string name="theme">theme</string>
+    <string name="message">message</string>
+    <string name="send">SEND</string>
+    <string name="next">next</string>
+</resources>

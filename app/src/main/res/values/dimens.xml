@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tendp">10dp</dimen>
+    <dimen name="sixtydp">60dp</dimen>
+    <dimen name="btn_width">360dp</dimen>
+</resources>
